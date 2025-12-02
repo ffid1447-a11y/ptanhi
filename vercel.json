@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/vehicle/mobile-no", "dest": "/api/mobile.js" }
+  ]
+}
